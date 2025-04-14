@@ -7,7 +7,7 @@
 
 ## Summary
 
-I hold a Bachelor's degree in Computer Engineering and Multimedia and am completing my Master's in Computer Engineering, specializing in Artificial Intelligence. I am passionate about technology and always eager to expand my skills and take on new challenges. Self-taught and adaptable, I thrive in collaborative environments and enjoy learning from others. My focus is on creating solutions that solve real-world problems, whether through software or emerging technologies, with the goal of making a meaningful impact.
+I hold a Bachelor's degree in Computer Engineering and Multimedia and I am completing my Master's in Computer Engineering, specializing in Artificial Intelligence. I am passionate about technology and always eager to expand my skills and take on new challenges. Self-taught and adaptable, I thrive in collaborative environments and enjoy learning from others. My focus is on creating solutions that solve real-world problems, whether through software or emerging technologies, with the goal of making a meaningful impact.
 
 ---
 
